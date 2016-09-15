@@ -3,3 +3,4 @@
 
 include:
   - nova.db
+  - nova.keystone
